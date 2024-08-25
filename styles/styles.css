@@ -1,0 +1,6 @@
+.code-editor {
+    font-family: monospace;
+    background-color: #f8f9fa;
+    resize: none;
+    height: calc(100% - 2rem); /* Asegura que el editor ocupe todo el espacio menos la altura de la pestaña */
+}
